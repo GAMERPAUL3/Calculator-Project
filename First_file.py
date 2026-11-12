@@ -5,3 +5,7 @@
 #This is our code
 
 print("I love Git")
+
+#This is a change on our code
+
+print("Merging")
